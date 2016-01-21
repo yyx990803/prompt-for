@@ -6,9 +6,9 @@
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
-    "async": "^0.7.0",
-    "chalk": "^0.4.0",
-    "cli-prompt": "^0.3.2",
+    "async": "^1.5.2",
+    "chalk": "^1.1.1",
+    "cli-prompt": "^0.4.3",
     "component-type": "^1.0.0",
     "date.js": "^0.2.0",
     "debug": "^0.8.0",
